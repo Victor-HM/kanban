@@ -24,7 +24,10 @@ Desafios exclusivos, promovido pela Rockeseat. <br/>
 ## 👨🏼‍💻 Funções
 
  - Next Fonts
- - Drag and Drop (futura atualização)
+ - Drag and Drop na mesma lista
+ - Drag and Drop em uma lista diferente (Atualização futura)
+ - Filtro com o input (Atualização futura)
+ - Filtro com as tags (Atualização futura)
 
 ## 🚀 Tecnologias
 
@@ -34,6 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Typescript
 - Tailwindcss
 - Phosphor React
+- React-Beautiful-dnd
 - Git e Github
 
 ## 💻 Projeto
